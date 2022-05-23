@@ -1,0 +1,34 @@
+{
+ "title" : "Shoppy.Online" ,
+ "contactUs":{
+ "address" : "",
+ "email" : "",
+ "phone" : ""
+ },
+ "categories" : [
+ { "id": 1,
+      "name": "Shoes"},
+	   {
+      "id": 2,
+      "name": "Jeans"},
+	    {
+      "id": 7,
+      "name": "T-Shirts"},
+	     {
+      "id": 8,
+      "name": "Tracks & Trousers"
+	  },
+	    {
+      "id": 9,
+      "name": "Formals"},
+	     {
+      "id": 10,
+      "name": "Shirts"
+	  },
+	      {
+      "id": 14,
+      "name": "Electronics"}
+	  ]
+	  }
+	
+ 

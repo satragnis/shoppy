@@ -1,0 +1,18 @@
+{
+"orderDone" : [
+{
+ "productId": 1,
+ "categotyId": 1,
+ "name": "Nike Sneakers",
+ "variantId": 2,
+ "color": "Blue",
+ "size": 42,
+ "price": 1000,
+ "quantity" :1,
+ "taxPercent":12.5,
+ "modeOfPayment":"online",
+ "transactionId":"sdf23424fdsf"
+}],
+"totalAmount" : 1000,
+"totalQuantity" : 1
+}

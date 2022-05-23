@@ -1,0 +1,766 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Nike Sneakers",
+      "date_added": "2016-12-09T11:16:11.000Z",
+      "price": 1000,
+      "variants": [
+        {
+          "id": 1,
+          "color": "Blue",
+          "size": 42
+        },
+        {
+          "id": 2,
+          "color": "Red",
+          "size": 42
+        },
+        {
+          "id": 3,
+          "color": "Blue",
+          "size": 44
+        },
+        {
+          "id": 4,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "Adidas Running Shoes",
+      "date_added": "2016-11-05T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 5,
+          "color": "White",
+          "size": 40
+        },
+        {
+          "id": 6,
+          "color": "Black",
+          "size": 40
+        },
+        {
+          "id": 7,
+          "color": "White",
+          "size": 44
+        },
+        {
+          "id": 8,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 21,
+      "categoryId": 1,
+      "name": "Roadster Loafers",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3500,
+      "variants": [
+        {
+          "id": 65,
+          "color": "Black",
+          "size": 44
+        },
+        {
+          "id": 66,
+          "color": "Blue",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "name": "Light Loafers",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 2800,
+      "variants": [
+        {
+          "id": 67,
+          "color": "Blue",
+          "size": 42
+        },
+        {
+          "id": 68,
+          "color": "Yellow",
+          "size": 42
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "name": "Floaters",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3500,
+      "variants": [
+        {
+          "id": 69,
+          "color": "Black",
+          "size": 40
+        },
+        {
+          "id": 70,
+          "color": "Red",
+          "size": 40
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Spykar Denim",
+      "date_added": "2017-01-05T11:16:11.000Z",
+      "price": 1400,
+      "variants": [
+        {
+          "id": 9,
+          "color": "Blue",
+          "size": 30
+        },
+        {
+          "id": 10,
+          "color": "Black",
+          "size": 32
+        },
+        {
+          "id": 11,
+          "color": "Blue",
+          "size": 34
+        },
+        {
+          "id": 12,
+          "color": "Blue",
+          "size": 36
+        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Lee Cotton Jeans",
+      "date_added": "2017-01-25T11:16:11.000Z",
+      "price": 1400,
+      "variants": [
+        {
+          "id": 13,
+          "color": "Blue",
+          "size": 30
+        },
+        {
+          "id": 14,
+          "color": "Black",
+          "size": 32
+        },
+        {
+          "id": 15,
+          "color": "White",
+          "size": 34
+        },
+        {
+          "id": 16,
+          "color": "Black",
+          "size": 36
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 24,
+      "categoryId": 2,
+      "name": "Denim Wash",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3400,
+      "variants": [
+        {
+          "id": 71,
+          "color": "Blue",
+          "size": 30
+        },
+        {
+          "id": 72,
+          "color": "Grey",
+          "size": 30
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 25,
+      "categoryId": 2,
+      "name": "Pepe Jeans Slim Fit",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 4400,
+      "variants": [
+        {
+          "id": 73,
+          "color": "Blue",
+          "size": 32
+        },
+        {
+          "id": 74,
+          "color": "Light Blue",
+          "size": 32
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 26,
+      "categoryId": 2,
+      "name": "Spykar Funky Regular",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 2400,
+      "variants": [
+        {
+          "id": 75,
+          "color": "Blue",
+          "size": 34
+        },
+        {
+          "id": 76,
+          "color": "Black",
+          "size": 32
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 5,
+      "categoryId": 7,
+      "name": "Polo Collar T-Shirt",
+      "date_added": "2016-12-20T11:16:11.000Z",
+      "price": 2200,
+      "variants": [
+        {
+          "id": 17,
+          "color": "Blue",
+          "size": 42
+        },
+        {
+          "id": 18,
+          "color": "Red",
+          "size": 42
+        },
+        {
+          "id": 19,
+          "color": "White",
+          "size": 44
+        },
+        {
+          "id": 20,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 6,
+      "categoryId": 7,
+      "name": "Adidas Nylon",
+      "date_added": "2017-01-28T11:16:11.000Z",
+      "price": 2200,
+      "variants": [
+        {
+          "id": 21,
+          "color": "White",
+          "size": 40
+        },
+        {
+          "id": 22,
+          "color": "Yellow",
+          "size": 40
+        },
+        {
+          "id": 23,
+          "color": "Green",
+          "size": 44
+        },
+        {
+          "id": 24,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 27,
+      "categoryId": 7,
+      "name": "Being Human Collar T-shirt",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 2600,
+      "variants": [
+        {
+          "id": 77,
+          "color": "Blue",
+          "size": 40
+        },
+        {
+          "id": 78,
+          "color": "Black",
+          "size": 42
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 28,
+      "categoryId": 7,
+      "name": "V - Neck Smart T-Shirt",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 2800,
+      "variants": [
+        {
+          "id": 79,
+          "color": "Blue",
+          "size": 44
+        },
+        {
+          "id": 80,
+          "color": "Black",
+          "size": 42
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 29,
+      "categoryId": 8,
+      "name": "Manchester United",
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3400,
+      "variants": [
+        {
+          "id": 81,
+          "color": "Red",
+          "size": 40
+        },
+        {
+          "id": 82,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 7,
+      "name": "Comfort Tracks",
+      "categoryId": 8,
+      "date_added": "2016-12-22T11:16:11.000Z",
+      "variants": [
+        {
+          "id": 25,
+          "color": "Blue",
+          "size": 42
+        },
+        {
+          "id": 26,
+          "color": "Red",
+          "size": 42
+        },
+        {
+          "id": 27,
+          "color": "White",
+          "size": 44
+        },
+        {
+          "id": 28,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 8,
+      "name": "Adidas Trousers",
+      "categoryId": 8,
+      "date_added": "2017-01-20T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 29,
+          "color": "White",
+          "size": 40
+        },
+        {
+          "id": 30,
+          "color": "Yellow",
+          "size": 40
+        },
+        {
+          "id": 31,
+          "color": "Green",
+          "size": 44
+        },
+        {
+          "id": 32,
+          "color": "Red",
+          "size": 44
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 30,
+      "name": "Superdry track",
+      "categoryId": 8,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3280,
+      "variants": [
+        {
+          "id": 83,
+          "color": "Red",
+          "size": 36
+        },
+        {
+          "id": 84,
+          "color": "Blue",
+          "size": 38
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 31,
+      "name": "Night Comfy Track",
+      "categoryId": 8,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 3400,
+      "variants": [
+        {
+          "id": 85,
+          "color": "Red",
+          "size": 36
+        },
+        {
+          "id": 86,
+          "color": "Black",
+          "size": 32
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 32,
+      "name": "Superdry Joggers",
+      "categoryId": 8,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 5400,
+      "variants": [
+        {
+          "id": 87,
+          "color": "Red",
+          "size": 30
+        },
+        {
+          "id": 88,
+          "color": "Blue",
+          "size": 32
+        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 9,
+      "categoryId": 9,
+      "name": "Bata Lace up Shoes",
+      "date_added": "2016-12-22T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 33,
+          "color": "Black",
+          "size": 42
+        },
+        {
+          "id": 34,
+          "color": "Brown",
+          "size": 42
+        },
+        {
+          "id": 35,
+          "color": "Black",
+          "size": 44        },
+        {
+          "id": 36,
+          "color": "Brown",
+          "size": 44        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 10,
+      "categoryId": 9,
+      "name": "Franco Leather",
+      "date_added": "2017-01-20T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 37,
+          "color": "Black",
+          "size": 40        },
+        {
+          "id": 38,
+          "color": "Brown",
+          "size": 40        },
+        {
+          "id": 39,
+          "color": "Black",
+          "size": 44        },
+        {
+          "id": 40,
+          "color": "Brown",
+          "size": 44        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 11,
+      "categoryId": 10,
+      "name": "Wrangler Checked Shirt",
+      "date_added": "2017-01-22T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 41,
+          "color": "Blue",
+          "size": 42        },
+        {
+          "id": 42,
+          "color": "Red",
+          "size": 42        },
+        {
+          "id": 43,
+          "color": "Black",
+          "size": 44        },
+        {
+          "id": 44,
+          "color": "White",
+          "size": 44        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 12,
+      "categoryId": 10,
+      "name": "Printed Shirt",
+      "date_added": "2017-01-20T11:16:11.000Z",
+      "price": 2000,
+      "variants": [
+        {
+          "id": 45,
+          "color": "Blue",
+          "size": 40        },
+        {
+          "id": 46,
+          "color": "Black",
+          "size": 40        },
+        {
+          "id": 47,
+          "color": "Red",
+          "size": 38        },
+        {
+          "id": 48,
+          "color": "Brown",
+          "size": 38        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 13,
+      "categoryId": 14,
+      "name": "Iphone 6S",
+      "date_added": "2017-01-10T11:16:11.000Z",
+      "price": 70000,
+      "variants": [
+        {
+          "id": 49,
+          "color": "Silver",
+          "size": null        },
+        {
+          "id": 50,
+          "color": "Golden",
+          "size": null        }
+      ],
+      "tax": {
+        "name": "VAT",
+        "value": 12.5
+      }
+    },
+    {
+      "id": 14,
+      "categoryId": 14,
+      "name": "Iphone 7",
+      "date_added": "2016-12-20T11:16:11.000Z",
+      "price": 75000,
+      "variants": [
+        {
+          "id": 51,
+          "color": "Black",
+          "size": null        },
+        {
+          "id": 52,
+          "color": "Silver",
+          "size": null        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 33,
+      "name": "Iphone 6",
+      "categoryId": 14,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 28000,
+      "variants": [
+        {
+          "id": 89,
+          "color": "Silver",
+          "size": null        },
+        {
+          "id": 90,
+          "color": "Golden",
+          "size": null        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 34,
+      "name": "Iphone 6s Plus",
+      "categoryId": 14,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 60000,
+      "variants": [
+        {
+          "id": 91,
+          "color": "Silver",
+          "size": null        },
+        {
+          "id": 92,
+          "color": "Golden",
+          "size": null        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    },
+    {
+      "id": 35,
+      "name": "Iphone 13 Pro",
+      "categoryId": 14,
+      "date_added": "2016-01-18T11:16:11.000Z",
+      "price": 90000,
+      "variants": [
+        {
+          "id": 93,
+          "color": "Black",
+          "size": null        },
+        {
+          "id": 94,
+          "color": "Grey",
+          "size": null        }
+      ],
+      "tax": {
+        "name": "VAT4",
+        "value": 4
+      }
+    }
+  ]
+}
